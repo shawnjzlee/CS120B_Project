@@ -24,3 +24,27 @@ Cyclic Puzzle is a two-dimensional puzzle game that tests the player's reaction 
 3. Using two 7-segment displays to output the number of seconds on the timer.
 
 4. Random generation of different lengths and the pattern locations of the puzzle.
+
+#### How To Play
+
+![Cyclic Puzzle Feature](http://shawnjzlee.me/img/EE120B_Feature.gif)
+
+* When the indicator reaches a hollow cell and the keypad is pressed, the cell will be filled.
+
+* However, when the indicator reaches a filled cell and the keypad is pressed, the cell will be hollow again.
+
+* All hollow cells in the puzzle must be filled to win the game.
+
+#### Game Levels
+
+| Level | Hollow Cells | Total Cells  |
+| ----- |:------------:| ------------:|
+| 1     | up to 5      | 6            |
+| 2     | up to 6      | 7            |
+| 3     | up to 7      | 8            |
+| 4     | up to 8      | 9            |
+| 5     | up to 9      | 10           |
+| 6     | up to 10     | 11           |
+| 7     | up to 11     | 12           |
+| 8     | up to 13     | 14           |
+| 9     | up to 15     | 16           |
