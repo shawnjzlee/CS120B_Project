@@ -1,4 +1,4 @@
-CS/EE120B Project Proposal: Cyclic Puzzle
+CS/EE120B Project: Lock-pick
 =========================================
 #### Introduction
 Cyclic Puzzle is a two-dimensional puzzle game that tests the player's reaction time and hand-eye coordination. The first line of the 16x2 LED Display will generate a randomly populated pattern (puzzle) that the player will need to match. The second line of the display will utilize a linearly moving indicator that the player must use to match the pattern. This indicator cannot be controlled by the player and moves continuously until the player finishes the puzzle, resets the game, or runs out of time (90 seconds). The indicator's speed and the number of populated locations will change according to the difficulty the player sets. The goal is to match the puzzle on the first line in the shortest amount of time.
